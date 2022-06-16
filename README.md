@@ -4,11 +4,11 @@ Este exemplo é utilizado no meu trabalho de Linguagem de Programação IV a res
 
 Esse exemplo conta com as classes:
 
-Animal(Interface);
-AnimalFactory(Factory);
-Cachorro(Classe);
-Gato(Classe);
-Teste (Classe Principal);
+- Animal(Interface);
+- AnimalFactory(Factory);
+- Cachorro(Classe);
+- Gato(Classe);
+- Teste (Classe Principal);
 
 A ideia é gerar através de um Factory, objetos com métodos por meio da implementação da interface fábrica. Aqui, animal diz "Oi" junto de seu nome, que é definido pelo usuário durante o teste.
 
