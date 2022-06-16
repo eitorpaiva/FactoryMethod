@@ -1,6 +1,6 @@
 # FactoryAnimal (FactoryMethod)
 
-Este exemplo é utilizado no meu trabalho de Linguagem de Programação IV a respeito de Design Patterns, mais especificamente de Class Adapter.
+Este exemplo é utilizado no meu trabalho de Linguagem de Programação IV a respeito de Design Patterns, mais especificamente de Factory Method.
 
 Esse exemplo conta com as classes:
 
